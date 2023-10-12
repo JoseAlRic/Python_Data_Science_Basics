@@ -15,7 +15,7 @@
     <li><strong>Niveles de Lenguaje:</strong> Comprende la diferencia entre lenguajes de alto y bajo nivel, y cómo Python se sitúa en este espectro.</li>
     <li><strong>Condicionales:</strong> Explora las estructuras condicionales en Python, incluyendo el uso de if y else para tomar decisiones en tu código.</li>
     <li><strong>Estructuras de Repetición: (Bucle o Loops)</strong> Aprende a utilizar bucles for y while para realizar tareas repetitivas de manera eficiente.</li>
-    <li><strong>Condicionales:</strong>strong> Aprende a utilizar estructuras condicionales, como `if`, `else` y `elif`, para tomar decisiones en tu código.</li>
+    <li><strong>Condicionales:</strong> Aprende a utilizar estructuras condicionales, como `if`, `else` y `elif`, para tomar decisiones en tu código.</li>
     <li><strong>Bibliotecas:</strong> Descubre la importancia de las bibliotecas en Ciencia de Datos y cómo importar y utilizar bibliotecas populares como NumPy, pandas y matplotlib.</li>
   </ul>
 
