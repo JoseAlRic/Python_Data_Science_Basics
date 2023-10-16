@@ -55,7 +55,7 @@
         <li>Ciclo while en Python.</li>
         <li>Control de flujo en bucles.</li>
     </ul>
-    <h1>Módulo 3: Bibliotecas y Estructuras de Datos Avanzadas</h1>
+    <h1>Módulo 3: Bibliotecas</h1>
     <h2>Bibliotecas en Python</h2>
     <ul>
         <li>Importancia de las bibliotecas en Data Science.</li>
