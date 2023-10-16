@@ -5,18 +5,61 @@
 
   <h2>Contenido del Repositorio:</h2>
   <ul>
-    <li><strong>Google Colab:</strong> Aprende cómo utilizar Google Colab, una plataforma en línea para la ejecución de notebooks de Jupyter que facilita la escritura y ejecución de código Python.</li>
-    <li><strong>Python para Data Science:</strong> Descubre por qué Python es un lenguaje esencial en el mundo de la Ciencia de Datos y cómo se aplica en el campo laboral.</li>
-    <li><strong>Operaciones Matemáticas: </strong> Explora las operaciones matemáticas básicas en Python, como suma, resta, multiplicación y división. </li>
-    <li><strong>Variables:</strong> Exploraremos los diversos tipos de variables en Python y cómo declararlas y utilizarlas eficientemente.</li>
-    <li><strong>Tipos de Datos:</strong> Aprende sobre los tipos de datos en Python, incluyendo enteros, flotantes, cadenas, listas y diccionarios, y cómo manejarlos.</li>
-   <li><strong>Indentación, Comentarios, Formateo y Concatenación:</strong> Conoce las reglas de indentación, cómo agregar comentarios, formatear cadenas y concatenar valores.</li>
-    <li><strong>Funciones:</strong> Profundiza en las funciones en Python, desde las funciones incorporadas hasta la creación de tus propias funciones con o sin parámetros.</li>
-    <li><strong>Niveles de Lenguaje:</strong> Comprende la diferencia entre lenguajes de alto y bajo nivel, y cómo Python se sitúa en este espectro.</li>
-    <li><strong>Condicionales:</strong> Explora las estructuras condicionales en Python, incluyendo el uso de if y else para tomar decisiones en tu código.</li>
-    <li><strong>Estructuras de Repetición: (Bucle o Loops)</strong> Aprende a utilizar bucles for y while para realizar tareas repetitivas de manera eficiente.</li>
-    <li><strong>Condicionales:</strong> Aprende a utilizar estructuras condicionales, como `if`, `else` y `elif`, para tomar decisiones en tu código.</li>
-    <li><strong>Bibliotecas:</strong> Descubre la importancia de las bibliotecas en Ciencia de Datos y cómo importar y utilizar bibliotecas populares como NumPy, pandas y matplotlib.</li>
+    <h1>Módulo 1: Fundamentos de Python</h1>
+    <h2>Introducción a Google Colab</h2>
+    <ul>
+        <li>¿Qué es Google Colab y cómo usarlo?</li>
+        <li>Configuración inicial y ventajas en Data Science.</li>
+    </ul>
+    <h2>Python para Data Science</h2>
+    <ul>
+        <li>Importancia de Python en Data Science.</li>
+        <li>Entorno de desarrollo y primeros pasos.</li>
+    </ul>
+    <h2>Operaciones Matemáticas en Python</h2>
+    <ul>
+        <li>Operaciones básicas (suma, resta, multiplicación, división).</li>
+        <li>Uso de operadores matemáticos en Python.</li>
+    </ul>
+    <h2>Variables en Python</h2>
+    <ul>
+        <li>Declaración y asignación de variables.</li>
+        <li>Tipos de variables y convenciones de nombres.</li>
+    </ul>
+    <h2>Tipos de Datos en Python</h2>
+    <ul>
+        <li>Tipos de datos primitivos (enteros, flotantes, cadenas, booleanos).</li>
+        <li>Estructuras de datos (listas, tuplas, diccionarios).</li>
+    </ul>
+    <h1>Módulo 2: Fundamentos de Programación</h1>
+    <h2>Indentación, Comentarios, Formatación y Concatenación</h2>
+    <ul>
+        <li>Importancia de la indentación en Python.</li>
+        <li>Uso de comentarios para documentar el código.</li>
+        <li>Buenas prácticas de formateo y concatenación de cadenas.</li>
+    </ul>
+    <h2>Funciones en Python</h2>
+    <ul>
+        <li>Concepto de funciones.</li>
+        <li>Tipos de funciones (built-in y definidas por el usuario).</li>
+        <li>Parámetros y retorno de funciones.</li>
+    </ul>
+    <h2>Condicionales en Python</h2>
+    <ul>
+        <li>Uso de condicionales if, else, elif y else if.</li>
+        <li>Ejemplos de aplicaciones de condicionales.</li>
+    </ul>
+    <h2>Estructuras de Repetición (Bucles o Loops)</h2>
+    <ul>
+        <li>Ciclo for en Python.</li>
+        <li>Ciclo while en Python.</li>
+        <li>Control de flujo en bucles.</li>
+    </ul>
+    <h1>Módulo 3: Bibliotecas y Estructuras de Datos Avanzadas</h1>
+    <h2>Bibliotecas en Python</h2>
+    <ul>
+        <li>Importancia de las bibliotecas en Data Science.</li>
+        <li>Ejemplos de bibliotecas comunes (NumPy, Pandas, Matplotlib).</li>
   </ul>
 
   <h2>Instrucciones de Uso:</h2>
